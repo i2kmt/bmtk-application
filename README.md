@@ -21,3 +21,6 @@ When you want to move your arm, you basically think about moving it, your muscle
 - *Reflex system*:
 Reflexes occur without your thought or desire. They are automatic mechanisms that often you can't control. Reflexes don't reach the brain. You are built in a specific way that some stimuli from your environment (input) cause a specific reaction (output). There is no application/process/thinking or whatever-you-want-to-call-it stage. A nerve carries the input to your spinal cord, where it causes the firing of other specific nerves right away. These nerve connections are pre-designed in your DNA, they were created in your embryonic life, and are the same for everyone.
 
+## Muscle movement
+The control of the muscle movement is occurred at primary motor cortex. In order to model the movement of different muscles, you need to take in consideration the nerves that connect to each muscle
+
