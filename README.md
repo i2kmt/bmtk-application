@@ -9,6 +9,7 @@ Even tho I study medicine and I do have a lot of basics and more knowledge about
 If you feel lost or unsure about where to start, you are not alone. You can even start with just a 2-node model. Try to understand the information flow. If you don't have a biology background, I encourage you to look some things up. These can be:
 - Nerve cell physiology
 - Basic brain anatomy
+
 Feel free to contact me for more ideas.
 
 # Easy project
